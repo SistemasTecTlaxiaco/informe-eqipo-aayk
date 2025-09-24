@@ -1,19 +1,4 @@
-# ==============================================
-# CONFIGURACIÓN INICIAL (solo la primera vez)
-# ==============================================
-git config --global user.name "TuNombre"
-git config --global user.email "tuemail@example.com"
 
-# ==============================================
-# CREAR CARPETA DEL PROYECTO
-# ==============================================
-mkdir aquarius-quality-report
-cd aquarius-quality-report
-
-# ==============================================
-# CREAR ARCHIVO DEL INFORME
-# ==============================================
-cat << 'EOF' > informe-metricas.md
 # Informe de Métricas de Calidad - Proyecto Aquarius  
 
 ## Información del Proyecto Analizado  
