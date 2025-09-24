@@ -116,8 +116,6 @@ El análisis de métricas confirma que el **proyecto Aquarius** mantiene estánd
 3. **Incrementar la cobertura de pruebas >90%:** especialmente en condiciones de estrés extremo y validaciones cross-chain.  
 4. **Fortalecer el feedback loop:** mantener encuestas trimestrales y foros comunitarios abiertos, integrando mejoras de manera iterativa en los sprints.  
 
-**Proyección:**  
-Si el equipo mantiene su compromiso con la **mejora continua** y la **retroalimentación comunitaria**, Aquarius no solo consolidará su posición en Stellar, sino que también podrá escalar hacia un referente de **protocolos DeFi sostenibles, seguros y transparentes** en el ecosistema blockchain.  
 
 
 
