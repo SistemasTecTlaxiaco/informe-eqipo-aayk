@@ -75,7 +75,7 @@ Este informe presenta un análisis de métricas de calidad aplicadas al proyecto
 ### 4.3 Precisión en la Distribución de Incentivos: **99.95%**  
 **Validación:**  
 - Auditorías externas confirmaron precisión en recompensas.  
-- No se detectaron sesgos en pools con alta volatilidad.  
+- No se detectaron sesgos en pools con alta volatilidad.
 
 ### 4.4 Cobertura de Pruebas Automatizadas: **87%**  
 **Configuración Identificada:**  
@@ -91,7 +91,7 @@ jobs:
         run: cargo test --locked
       - name: Coverage Report
         run: cargo tarpaulin --out Xml
-
+```
 ### 4.5 Satisfacción de Usuarios/LPs: **92%**  
 **Encuestas comunitarias:**  
 - Los LPs destacaron la transparencia en los reportes de recompensas.  
@@ -105,4 +105,6 @@ El análisis confirma que el **proyecto Aquarius** cumple con altos estándares 
 - **Fortalezas:** alta disponibilidad, tiempos de transacción competitivos y distribución precisa de incentivos.  
 - **Áreas de mejora:** ampliar el dashboard de métricas en tiempo real y optimizar la experiencia de usuario para LPs con menor experiencia.  
 - **Proyección:** mantener un ciclo de mejora continua con feedback comunitario y auditorías periódicas asegurará la sostenibilidad y escalabilidad del protocolo.  
+
+
 
