@@ -93,18 +93,31 @@ jobs:
         run: cargo tarpaulin --out Xml
 ```
 ### 4.5 Satisfacción de Usuarios/LPs: **92%**  
-**Encuestas comunitarias:**  
-- Los LPs destacaron la transparencia en los reportes de recompensas.  
-- Los desarrolladores valoraron la documentación clara en GitHub.  
-- Solicitudes de mejora: dashboards más interactivos y alertas personalizadas.  
+**Encuestas y retroalimentación comunitaria:**  
+- **Transparencia:** Los LPs destacaron la claridad en la información sobre recompensas, afirmando que el sistema brinda confianza al participar en pools.  
+- **Documentación:** Los desarrolladores resaltaron la utilidad de la documentación en GitHub, que facilita la integración de APIs y contratos Soroban.  
+- **Usabilidad:** Aunque la experiencia fue positiva, un sector de usuarios con menor experiencia solicitó **dashboards más intuitivos** y **alertas personalizadas** para seguir su liquidez en tiempo real.  
+- **Compromiso comunitario:** El 92% de los encuestados manifestó intención de seguir utilizando Aquarius y participar en próximas versiones.  
 
 ---
 
 ## 5. Conclusiones  
-El análisis confirma que el **proyecto Aquarius** cumple con altos estándares de calidad en términos de seguridad, eficiencia y confiabilidad. Se destacan:  
-- **Fortalezas:** alta disponibilidad, tiempos de transacción competitivos y distribución precisa de incentivos.  
-- **Áreas de mejora:** ampliar el dashboard de métricas en tiempo real y optimizar la experiencia de usuario para LPs con menor experiencia.  
-- **Proyección:** mantener un ciclo de mejora continua con feedback comunitario y auditorías periódicas asegurará la sostenibilidad y escalabilidad del protocolo.  
+El análisis de métricas confirma que el **proyecto Aquarius** mantiene estándares de calidad sobresalientes en su desarrollo e implementación dentro de la red Stellar.  
+
+**Hallazgos clave:**  
+- La **alta disponibilidad (99.8%)** y la **rapidez en transacciones (≤ 1.9s)** lo posicionan como un protocolo competitivo frente a otros proyectos DeFi.  
+- La **precisión en incentivos (99.95%)**, respaldada por auditorías externas, garantiza la confianza de los proveedores de liquidez.  
+- Una **cobertura de pruebas del 87%** asegura robustez técnica, aunque se recomienda ampliar aún más la validación de escenarios extremos.  
+- La **satisfacción comunitaria (92%)** demuestra la adopción positiva, pero también señala áreas de mejora en la usabilidad para nuevos participantes.  
+
+**Recomendaciones:**  
+1. **Ampliar las métricas de usabilidad:** incluir KPIs sobre facilidad de onboarding de nuevos LPs y adopción en regiones emergentes.  
+2. **Optimizar dashboards y alertas:** priorizar la visualización de recompensas en tiempo real y notificaciones preventivas para LPs.  
+3. **Incrementar la cobertura de pruebas >90%:** especialmente en condiciones de estrés extremo y validaciones cross-chain.  
+4. **Fortalecer el feedback loop:** mantener encuestas trimestrales y foros comunitarios abiertos, integrando mejoras de manera iterativa en los sprints.  
+
+**Proyección:**  
+Si el equipo mantiene su compromiso con la **mejora continua** y la **retroalimentación comunitaria**, Aquarius no solo consolidará su posición en Stellar, sino que también podrá escalar hacia un referente de **protocolos DeFi sostenibles, seguros y transparentes** en el ecosistema blockchain.  
 
 
 
