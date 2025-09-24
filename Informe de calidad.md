@@ -1,4 +1,3 @@
-
 # Informe de Métricas de Calidad - Proyecto Aquarius  
 
 ## Información del Proyecto Analizado  
@@ -92,3 +91,18 @@ jobs:
         run: cargo test --locked
       - name: Coverage Report
         run: cargo tarpaulin --out Xml
+
+### 4.5 Satisfacción de Usuarios/LPs: **92%**  
+**Encuestas comunitarias:**  
+- Los LPs destacaron la transparencia en los reportes de recompensas.  
+- Los desarrolladores valoraron la documentación clara en GitHub.  
+- Solicitudes de mejora: dashboards más interactivos y alertas personalizadas.  
+
+---
+
+## 5. Conclusiones  
+El análisis confirma que el **proyecto Aquarius** cumple con altos estándares de calidad en términos de seguridad, eficiencia y confiabilidad. Se destacan:  
+- **Fortalezas:** alta disponibilidad, tiempos de transacción competitivos y distribución precisa de incentivos.  
+- **Áreas de mejora:** ampliar el dashboard de métricas en tiempo real y optimizar la experiencia de usuario para LPs con menor experiencia.  
+- **Proyección:** mantener un ciclo de mejora continua con feedback comunitario y auditorías periódicas asegurará la sostenibilidad y escalabilidad del protocolo.  
+
